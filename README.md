@@ -8,7 +8,7 @@ This Python application creates a user-friendly interface for converting currenc
 - Convert to Rial (optional)
 - User-friendly PyQt5 GUI
 
-![Currency Converter GUI](https://mega.nz/file/14IkQDiJ#MGuAtoVpnul0wxWrCm6DKStBqNHWDuNZrKbhIbK4mog)
+![Currency Converter GUI](https://raw.githubusercontent.com/mr-holy/Rial-Convertor/main/Convertor.png)
 
 ## Requirements
 
